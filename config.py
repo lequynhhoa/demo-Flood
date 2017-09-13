@@ -5,7 +5,7 @@ import ee
 
 # The service account email address authorized by your Google contact.
 # The process to set up a service account is described in the README.
-EE_ACCOUNT = 'gfd-399@gfd-forest.iam.gserviceaccount.com'
+EE_ACCOUNT = 'forest-demo@banded-water-179809.iam.gserviceaccount.com'
 
 # The private key associated with your service account in Privacy Enhanced
 # Email format (.pem suffix).  To convert a private key from the RSA format
